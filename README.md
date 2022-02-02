@@ -9,4 +9,4 @@
 💻 I really want to be successful with Full stack web / mobile developer
 
 <h2>🚩 contact me</h2>
-📧 patiphan.ma@hotmail.com
+📧 <a href = "mailto: patiphan.ma@hotmail.com">patiphan.ma@hotmail.com</a>

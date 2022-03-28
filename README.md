@@ -10,3 +10,10 @@
 
 <h2>🚩 contact me</h2>
 <p>📧  &nbsp;<a href = "mailto: patiphan.ma@hotmail.com">patiphan.ma@hotmail.com</a></p>
+
+<br/>  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moopz-Dev&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moopz-Dev&layout=compact&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

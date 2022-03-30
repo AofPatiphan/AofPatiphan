@@ -1,10 +1,7 @@
 <h1>👋 Hi, I’m Patiphan</h1>
 
-<br/>
 
 <h2>📃 About me</h2>
-
-<p>🏆 &nbsp;Programming is like a work of art that can use creativity, imagination, mathematics, craftsmanship, refinement, emotion. The beauty of the code and its algorithm Seamlessly integrated with technology</p>
 
 <p>💻 &nbsp;I’m currently learning Front-End, Back-End</p>
 

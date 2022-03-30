@@ -1,5 +1,7 @@
 <h1>👋 Hi, I’m Patiphan</h1>
 
+<br/>
+
 <h2>📃 About me</h2>
 
 <p>🏆 &nbsp;Programming is like a work of art that can use creativity, imagination, mathematics, craftsmanship, refinement, emotion. The beauty of the code and its algorithm Seamlessly integrated with technology</p>
@@ -17,10 +19,10 @@
 
 ## 📈 My Github Stat
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AofPatiphan&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AofPatiphan&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AofPatiphan&layout=compact&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AofPatiphan&layout=compact&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 

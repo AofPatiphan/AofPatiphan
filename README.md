@@ -7,12 +7,10 @@
 
 <p>💻 &nbsp;I really want to be successful with Full stack web / mobile developer</p>
 
-<br/>
 
 <h2>🚩 contact me</h2>
 <p>📧  &nbsp;<a href = "mailto: patiphan.ma@hotmail.com">patiphan.ma@hotmail.com</a></p>
 
-<br/>  
 
 ## 📈 My Github Stat
 
@@ -21,7 +19,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AofPatiphan&layout=compact&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
 
 ## 💻 My Tech Stack (and increasing)
 
@@ -50,5 +47,6 @@ Tools
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
 
 
